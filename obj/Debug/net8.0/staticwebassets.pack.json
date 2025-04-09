@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg",
+      "PackagePath": "staticwebassets/images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/213987b9-c524-4c74-a937-1cfb28008ce0_image.jpg",
+      "PackagePath": "staticwebassets/images/213987b9-c524-4c74-a937-1cfb28008ce0_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/3e8297f4-b40c-4dc1-9505-8b83d077b073_image.jpg",
+      "PackagePath": "staticwebassets/images/3e8297f4-b40c-4dc1-9505-8b83d077b073_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/5e88710c-f514-4d0a-903e-c896f70b36a4_image.jpg",
+      "PackagePath": "staticwebassets/images/5e88710c-f514-4d0a-903e-c896f70b36a4_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/62f1baa1-1d48-42f8-877b-ee40b2ef4369_image.jpg",
+      "PackagePath": "staticwebassets/images/62f1baa1-1d48-42f8-877b-ee40b2ef4369_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/67beb265-7455-42d2-bc8d-09b3ef70141e_image.jpg",
+      "PackagePath": "staticwebassets/images/67beb265-7455-42d2-bc8d-09b3ef70141e_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/7280e22b-5adc-4cc2-bba0-9596ad5c52a6_image.jpg",
+      "PackagePath": "staticwebassets/images/7280e22b-5adc-4cc2-bba0-9596ad5c52a6_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/7dfbbdf1-05b7-4baa-b671-56c376c1d147_image.jpg",
+      "PackagePath": "staticwebassets/images/7dfbbdf1-05b7-4baa-b671-56c376c1d147_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/9ddc8482-a201-4cec-a998-49ab53f68bad_image.jpg",
+      "PackagePath": "staticwebassets/images/9ddc8482-a201-4cec-a998-49ab53f68bad_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/9fd0c555-36d2-42e4-95ec-7f0dcbbac1fb_image.jpg",
+      "PackagePath": "staticwebassets/images/9fd0c555-36d2-42e4-95ec-7f0dcbbac1fb_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/c777d7ec-6907-4f4b-9749-a0eea0915839_image.jpg",
+      "PackagePath": "staticwebassets/images/c777d7ec-6907-4f4b-9749-a0eea0915839_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/cb38e074-685d-4eec-9d14-9ba5366d18b9_image.jpg",
+      "PackagePath": "staticwebassets/images/cb38e074-685d-4eec-9d14-9ba5366d18b9_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/cfd5c204-c800-43b0-8336-2080ace7ec75_image.jpg",
+      "PackagePath": "staticwebassets/images/cfd5c204-c800-43b0-8336-2080ace7ec75_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/d2a2117d-76f1-47e3-8c4f-37de2b4ecc74_image.jpg",
+      "PackagePath": "staticwebassets/images/d2a2117d-76f1-47e3-8c4f-37de2b4ecc74_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/ea5c2067-d120-412e-bbba-da37f33f35e7_image.jpg",
+      "PackagePath": "staticwebassets/images/ea5c2067-d120-412e-bbba-da37f33f35e7_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/ff8f910d-d0ce-46ff-a3a9-bf2cfb657202_image.jpg",
+      "PackagePath": "staticwebassets/images/ff8f910d-d0ce-46ff-a3a9-bf2cfb657202_image.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BarterAppAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BarterAppAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BarterAppAPI.props",
+      "PackagePath": "build\\BarterAppAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BarterAppAPI.props",
+      "PackagePath": "buildMultiTargeting\\BarterAppAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BarterAppAPI.props",
+      "PackagePath": "buildTransitive\\BarterAppAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

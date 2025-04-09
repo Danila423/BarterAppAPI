@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F8337507-C10E-41EE-BBC0-8E0A05DFDAEC}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ListingsController.cs">
+    <Files>
+      <File FileName="Controllers/UsersController.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Controllers/AuthController.cs" />
+      <File FileName="Controllers/ListingsController.cs" Line="111" Column="1" />
+      <File FileName="Data/AppDbContext.cs" />
+      <File FileName="Models/ChangePasswordRequest.cs" />
+      <File FileName="Models/Listing.cs" />
+      <File FileName="Models/PasswordValidationRequest.cs" />
+      <File FileName="Models/User.cs" />
+      <File FileName="Models/UserLoginRequest.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Controllers/FavoritesController.cs" />
+      <File FileName="Models/Favorite.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BarterAppAPI" expanded="True">
+            <Node name="BarterAppAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ListingsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.TestsProj FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BarterAppAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
