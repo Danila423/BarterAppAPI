@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BarterAppAPI")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BarterAppApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("BarterAppAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BarterAppAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("BarterAppApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BarterAppApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

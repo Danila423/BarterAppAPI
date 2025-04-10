@@ -143,14 +143,14 @@ namespace BarterAppAPI.Controllers
             {
                 if (type == "Нужно")
                 {
-                    listingsQuery = listingsQuery.Where(l =>
-                        l.Type == "Нужно" || string.IsNullOrEmpty(l.Type));
+                    listingsQuery = listingsQuery.Where(l => l.Type == "Нужно" || string.IsNullOrEmpty(l.Type));
                 }
                 else if (type == "Отдам")
                 {
                     listingsQuery = listingsQuery.Where(l => l.Type == "Отдам");
                 }
             }
+
 
             // Фильтр по категориям
             if (!string.IsNullOrEmpty(categories))
