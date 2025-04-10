@@ -27,9 +27,11 @@ namespace BarterAppAPI.Controllers
         [HttpGet("all")]
         public async Task<ActionResult<IEnumerable<Listing>>> GetAllListings()
         {
-            var listings = await _context.Listings.ToListAsync();
-            return Ok(listings); // Возвращает пустой массив, если нет данных
+            // Возвращаем только неархивированные объявления
+            var listings = await _context.Listings.Where(l => !l.IsArchived).ToListAsync();
+            return Ok(listings);
         }
+
 
         // 2) Загрузка изображения на сервер
         // POST /api/listings/upload
@@ -138,6 +140,8 @@ namespace BarterAppAPI.Controllers
         {
             var listingsQuery = _context.Listings.AsQueryable();
 
+            listingsQuery = listingsQuery.Where(l => !l.IsArchived);
+
             // Фильтр по типу
             if (!string.IsNullOrEmpty(type))
             {
@@ -150,7 +154,6 @@ namespace BarterAppAPI.Controllers
                     listingsQuery = listingsQuery.Where(l => l.Type == "Отдам");
                 }
             }
-
 
             // Фильтр по категориям
             if (!string.IsNullOrEmpty(categories))

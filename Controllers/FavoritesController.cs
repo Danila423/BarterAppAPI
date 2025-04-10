@@ -69,19 +69,22 @@ namespace BarterAppAPI.Controllers
         }
 
         // GET /api/favorites/user/{userId} - получение избранных объявлений пользователя
+        // GET /api/favorites/user/{userId} - получение избранных объявлений пользователя
         [HttpGet("user/{userId}")]
         public async Task<IActionResult> GetUserFavorites(int userId)
         {
-            // Находим избранное и включаем объявления
+            // Находим записи избранного и включаем связанные объявления,
+            // фильтруем так, чтобы возвращались только неархивированные объявления
             var favorites = await _context.Favorites
-                .Where(f => f.UserId == userId)
+                .Where(f => f.UserId == userId && !f.Listing.IsArchived)
                 .Include(f => f.Listing)
                 .ToListAsync();
 
-            // Возвращаем только объявления
+            // Возвращаем список объявлений
             var listings = favorites.Select(f => f.Listing).ToList();
             return Ok(listings);
         }
+
 
         // DELETE /api/favorites/user/{userId}/listing/{listingId} - удаление из избранного
         [HttpDelete("user/{userId}/listing/{listingId}")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarterAppAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08dfa3786a3ac7988aa435d48f1629f6d0f5e21b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b425afed12da7cdd1ab49859a4cd1250fe29bb8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarterAppAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarterAppAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
