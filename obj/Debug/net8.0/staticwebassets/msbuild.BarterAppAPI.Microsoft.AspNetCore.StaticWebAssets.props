@@ -1,5 +1,23 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oaagoddl9u</Fingerprint>
+      <Integrity>4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>BarterAppAPI</SourceId>
@@ -17,6 +35,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cmfr2z6ckv</Fingerprint>
+      <Integrity>LGpvC1YkJyubUVekFhLoXH3mAgFuDu2QjK4BQW4g3BU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jft2434rsz</Fingerprint>
+      <Integrity>f3EtOUzIvDRM/dsZQIIPelmwSZp7g/sVf3uDmptEC9g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\213987b9-c524-4c74-a937-1cfb28008ce0_image.jpg'))">
       <SourceType>Package</SourceType>
@@ -53,6 +107,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\3e8297f4-b40c-4dc1-9505-8b83d077b073_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hy1zz9c6q9</Fingerprint>
+      <Integrity>qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4794c010-d90a-4541-a82d-88d90233d167_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9s54173u6j</Fingerprint>
+      <Integrity>ScNRUZPAfLc0CYjCrmRAGr1JHeJhcKfIwMhZmdeNnNk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4794c010-d90a-4541-a82d-88d90233d167_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ll7sju3vso</Fingerprint>
+      <Integrity>eTC9Dd0XSbVzqUJCh3xXxAJizq2OjK4xrMNmJvaz8ck=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5e88710c-f514-4d0a-903e-c896f70b36a4_image.jpg'))">
       <SourceType>Package</SourceType>
@@ -144,6 +252,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7dfbbdf1-05b7-4baa-b671-56c376c1d147_image.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hy1zz9c6q9</Fingerprint>
+      <Integrity>qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9ddc8482-a201-4cec-a998-49ab53f68bad_image.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>BarterAppAPI</SourceId>
@@ -179,6 +305,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9fd0c555-36d2-42e4-95ec-7f0dcbbac1fb_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5qqa2ojmtd</Fingerprint>
+      <Integrity>zfeiixGs5A4hrwH6boil3fCRqJ8LP85TxJZ0mlAkSHQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b972d047-5c91-4cba-bbca-978749d7b031_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rd5r39jlb9</Fingerprint>
+      <Integrity>/2r4D129MzlFvSU0B3QcBj7yjooOv30rEMWEuoRtdKY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b972d047-5c91-4cba-bbca-978749d7b031_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oaagoddl9u</Fingerprint>
+      <Integrity>4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\c777d7ec-6907-4f4b-9749-a0eea0915839_image.jpg'))">
       <SourceType>Package</SourceType>
@@ -251,6 +431,60 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d2a2117d-76f1-47e3-8c4f-37de2b4ecc74_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4f254rhrjn</Fingerprint>
+      <Integrity>gMSW4ROEFBOV6TOFoYo0Y9+ksUIcI97gD6yYApiY5EU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1xcy3mlpfq</Fingerprint>
+      <Integrity>G//Y8tA6Sfb0IJY3Tk9Gp/PHpWYvNrbjwzZXLc/eFKQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e45128a1-0e9f-4382-8264-104107add3d8_image.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BarterAppAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BarterAppAPI</BasePath>
+      <RelativePath>images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m3dzof0ab6</Fingerprint>
+      <Integrity>EmFxolThKdZ8avs740TV8ouS40+quXfOCCKoVULvvAs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\e45128a1-0e9f-4382-8264-104107add3d8_image.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ea5c2067-d120-412e-bbba-da37f33f35e7_image.jpg'))">
       <SourceType>Package</SourceType>

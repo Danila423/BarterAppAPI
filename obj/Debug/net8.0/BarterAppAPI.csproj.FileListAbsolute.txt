@@ -52,3 +52,4 @@
 /Users/danilanest/BarterAppAPI/obj/Debug/net8.0/staticwebassets/msbuild.BarterAppAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 /Users/danilanest/BarterAppAPI/bin/Debug/net8.0/BarterAppAPI.staticwebassets.runtime.json
 /Users/danilanest/BarterAppAPI/obj/Debug/net8.0/BarterAp.0BD0FC0C.Up2Date
+/Users/danilanest/BarterAppAPI/obj/Debug/net8.0/BarterAppAPI.sourcelink.json

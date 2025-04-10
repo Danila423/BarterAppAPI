@@ -5,8 +5,6 @@ VisualStudioVersion = 25.0.1706.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterAppAPI", "BarterAppAPI.csproj", "{F8337507-C10E-41EE-BBC0-8E0A05DFDAEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsProj", "..\TestsProj\TestsProj.csproj", "{9E4575C1-C1B6-46BD-A422-F4676B81BF41}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{F8337507-C10E-41EE-BBC0-8E0A05DFDAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8337507-C10E-41EE-BBC0-8E0A05DFDAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8337507-C10E-41EE-BBC0-8E0A05DFDAEC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9E4575C1-C1B6-46BD-A422-F4676B81BF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9E4575C1-C1B6-46BD-A422-F4676B81BF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9E4575C1-C1B6-46BD-A422-F4676B81BF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9E4575C1-C1B6-46BD-A422-F4676B81BF41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

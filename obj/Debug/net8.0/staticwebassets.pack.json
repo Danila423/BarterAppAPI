@@ -1,8 +1,20 @@
 {
   "Files": [
     {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg",
+      "PackagePath": "staticwebassets/images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg"
+    },
+    {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg",
       "PackagePath": "staticwebassets/images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg",
+      "PackagePath": "staticwebassets/images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg",
+      "PackagePath": "staticwebassets/images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg"
     },
     {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/213987b9-c524-4c74-a937-1cfb28008ce0_image.jpg",
@@ -11,6 +23,18 @@
     {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/3e8297f4-b40c-4dc1-9505-8b83d077b073_image.jpg",
       "PackagePath": "staticwebassets/images/3e8297f4-b40c-4dc1-9505-8b83d077b073_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg",
+      "PackagePath": "staticwebassets/images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg",
+      "PackagePath": "staticwebassets/images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg",
+      "PackagePath": "staticwebassets/images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg"
     },
     {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/5e88710c-f514-4d0a-903e-c896f70b36a4_image.jpg",
@@ -33,12 +57,28 @@
       "PackagePath": "staticwebassets/images/7dfbbdf1-05b7-4baa-b671-56c376c1d147_image.jpg"
     },
     {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg",
+      "PackagePath": "staticwebassets/images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg"
+    },
+    {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/9ddc8482-a201-4cec-a998-49ab53f68bad_image.jpg",
       "PackagePath": "staticwebassets/images/9ddc8482-a201-4cec-a998-49ab53f68bad_image.jpg"
     },
     {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/9fd0c555-36d2-42e4-95ec-7f0dcbbac1fb_image.jpg",
       "PackagePath": "staticwebassets/images/9fd0c555-36d2-42e4-95ec-7f0dcbbac1fb_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg",
+      "PackagePath": "staticwebassets/images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg",
+      "PackagePath": "staticwebassets/images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg",
+      "PackagePath": "staticwebassets/images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg"
     },
     {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/c777d7ec-6907-4f4b-9749-a0eea0915839_image.jpg",
@@ -55,6 +95,18 @@
     {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/d2a2117d-76f1-47e3-8c4f-37de2b4ecc74_image.jpg",
       "PackagePath": "staticwebassets/images/d2a2117d-76f1-47e3-8c4f-37de2b4ecc74_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg",
+      "PackagePath": "staticwebassets/images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg",
+      "PackagePath": "staticwebassets/images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg"
+    },
+    {
+      "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg",
+      "PackagePath": "staticwebassets/images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg"
     },
     {
       "Id": "/Users/danilanest/BarterAppAPI/wwwroot/images/ea5c2067-d120-412e-bbba-da37f33f35e7_image.jpg",

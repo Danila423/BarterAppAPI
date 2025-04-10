@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k9OS8uadoARG8GTVxiQahLHsOMhCOFqMfNMoayGfnyw=",
+  "Hash": "pCDntftLyFHRk2LKlRvluBFPg0jPSqiEAmQdesCM+1o=",
   "Source": "BarterAppAPI",
   "BasePath": "_content/BarterAppAPI",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/034dd5e4-562f-457a-b687-d805d4d0655d_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oaagoddl9u",
+      "Integrity": "4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg"
+    },
     {
       "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg",
       "SourceId": "BarterAppAPI",
@@ -36,6 +57,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cmfr2z6ckv",
+      "Integrity": "LGpvC1YkJyubUVekFhLoXH3mAgFuDu2QjK4BQW4g3BU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/167d82de-c48c-43a0-9a2e-34c7ab488408_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jft2434rsz",
+      "Integrity": "f3EtOUzIvDRM/dsZQIIPelmwSZp7g/sVf3uDmptEC9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg"
     },
     {
       "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/213987b9-c524-4c74-a937-1cfb28008ce0_image.jpg",
@@ -78,6 +141,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/3e8297f4-b40c-4dc1-9505-8b83d077b073_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/3f204dfd-522c-4208-8516-e7d00303a7d6_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hy1zz9c6q9",
+      "Integrity": "qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/4794c010-d90a-4541-a82d-88d90233d167_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9s54173u6j",
+      "Integrity": "ScNRUZPAfLc0CYjCrmRAGr1JHeJhcKfIwMhZmdeNnNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/595cec53-f31f-48b9-a485-262d54ee2f66_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ll7sju3vso",
+      "Integrity": "eTC9Dd0XSbVzqUJCh3xXxAJizq2OjK4xrMNmJvaz8ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg"
     },
     {
       "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/5e88710c-f514-4d0a-903e-c896f70b36a4_image.jpg",
@@ -185,6 +311,27 @@
       "OriginalItemSpec": "wwwroot/images/7dfbbdf1-05b7-4baa-b671-56c376c1d147_image.jpg"
     },
     {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hy1zz9c6q9",
+      "Integrity": "qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg"
+    },
+    {
       "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/9ddc8482-a201-4cec-a998-49ab53f68bad_image.jpg",
       "SourceId": "BarterAppAPI",
       "SourceType": "Discovered",
@@ -225,6 +372,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/9fd0c555-36d2-42e4-95ec-7f0dcbbac1fb_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5qqa2ojmtd",
+      "Integrity": "zfeiixGs5A4hrwH6boil3fCRqJ8LP85TxJZ0mlAkSHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/b972d047-5c91-4cba-bbca-978749d7b031_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rd5r39jlb9",
+      "Integrity": "/2r4D129MzlFvSU0B3QcBj7yjooOv30rEMWEuoRtdKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oaagoddl9u",
+      "Integrity": "4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg"
     },
     {
       "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/c777d7ec-6907-4f4b-9749-a0eea0915839_image.jpg",
@@ -311,6 +521,69 @@
       "OriginalItemSpec": "wwwroot/images/d2a2117d-76f1-47e3-8c4f-37de2b4ecc74_image.jpg"
     },
     {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4f254rhrjn",
+      "Integrity": "gMSW4ROEFBOV6TOFoYo0Y9+ksUIcI97gD6yYApiY5EU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1xcy3mlpfq",
+      "Integrity": "G//Y8tA6Sfb0IJY3Tk9Gp/PHpWYvNrbjwzZXLc/eFKQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg"
+    },
+    {
+      "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg",
+      "SourceId": "BarterAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/danilanest/BarterAppAPI/wwwroot/",
+      "BasePath": "_content/BarterAppAPI",
+      "RelativePath": "images/e45128a1-0e9f-4382-8264-104107add3d8_image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m3dzof0ab6",
+      "Integrity": "EmFxolThKdZ8avs740TV8ouS40+quXfOCCKoVULvvAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg"
+    },
+    {
       "Identity": "/Users/danilanest/BarterAppAPI/wwwroot/images/ea5c2067-d120-412e-bbba-da37f33f35e7_image.jpg",
       "SourceId": "BarterAppAPI",
       "SourceType": "Discovered",
@@ -354,6 +627,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2588776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 18:03:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI="
+        }
+      ]
+    },
+    {
+      "Route": "images/034dd5e4-562f-457a-b687-d805d4d0655d_image.oaagoddl9u.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2588776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 18:03:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oaagoddl9u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/034dd5e4-562f-457a-b687-d805d4d0655d_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI="
+        }
+      ]
+    },
     {
       "Route": "images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.hy1zz9c6q9.jpg",
       "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/0c0e238f-8edf-4bbc-9e3a-4f9b388a7aeb_image.jpg",
@@ -433,6 +788,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.cmfr2z6ckv.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LGpvC1YkJyubUVekFhLoXH3mAgFuDu2QjK4BQW4g3BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 16:55:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cmfr2z6ckv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LGpvC1YkJyubUVekFhLoXH3mAgFuDu2QjK4BQW4g3BU="
+        }
+      ]
+    },
+    {
+      "Route": "images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/130da99b-19a4-4fc5-902f-3fc898dc9b9f_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LGpvC1YkJyubUVekFhLoXH3mAgFuDu2QjK4BQW4g3BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 16:55:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LGpvC1YkJyubUVekFhLoXH3mAgFuDu2QjK4BQW4g3BU="
+        }
+      ]
+    },
+    {
+      "Route": "images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jft2434rsz.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2050012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f3EtOUzIvDRM/dsZQIIPelmwSZp7g/sVf3uDmptEC9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 17:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jft2434rsz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f3EtOUzIvDRM/dsZQIIPelmwSZp7g/sVf3uDmptEC9g="
+        }
+      ]
+    },
+    {
+      "Route": "images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/167d82de-c48c-43a0-9a2e-34c7ab488408_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2050012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f3EtOUzIvDRM/dsZQIIPelmwSZp7g/sVf3uDmptEC9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 17:07:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f3EtOUzIvDRM/dsZQIIPelmwSZp7g/sVf3uDmptEC9g="
         }
       ]
     },
@@ -593,6 +1112,252 @@
         {
           "Name": "label",
           "Value": "images/3e8297f4-b40c-4dc1-9505-8b83d077b073_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eTC9Dd0XSbVzqUJCh3xXxAJizq2OjK4xrMNmJvaz8ck="
+        }
+      ]
+    },
+    {
+      "Route": "images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.hy1zz9c6q9.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1037884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:24:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hy1zz9c6q9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/3f204dfd-522c-4208-8516-e7d00303a7d6_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1037884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 19:24:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/4794c010-d90a-4541-a82d-88d90233d167_image.9s54173u6j.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScNRUZPAfLc0CYjCrmRAGr1JHeJhcKfIwMhZmdeNnNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 16:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9s54173u6j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScNRUZPAfLc0CYjCrmRAGr1JHeJhcKfIwMhZmdeNnNk="
+        }
+      ]
+    },
+    {
+      "Route": "images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/4794c010-d90a-4541-a82d-88d90233d167_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ScNRUZPAfLc0CYjCrmRAGr1JHeJhcKfIwMhZmdeNnNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 16:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ScNRUZPAfLc0CYjCrmRAGr1JHeJhcKfIwMhZmdeNnNk="
+        }
+      ]
+    },
+    {
+      "Route": "images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1544221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eTC9Dd0XSbVzqUJCh3xXxAJizq2OjK4xrMNmJvaz8ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 17:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eTC9Dd0XSbVzqUJCh3xXxAJizq2OjK4xrMNmJvaz8ck="
+        }
+      ]
+    },
+    {
+      "Route": "images/595cec53-f31f-48b9-a485-262d54ee2f66_image.ll7sju3vso.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1544221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eTC9Dd0XSbVzqUJCh3xXxAJizq2OjK4xrMNmJvaz8ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 17:08:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ll7sju3vso"
+        },
+        {
+          "Name": "label",
+          "Value": "images/595cec53-f31f-48b9-a485-262d54ee2f66_image.jpg"
         },
         {
           "Name": "integrity",
@@ -1011,6 +1776,88 @@
       ]
     },
     {
+      "Route": "images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.hy1zz9c6q9.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1037884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 18:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hy1zz9c6q9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/9b176fdd-113c-49c6-a88f-37e1bfc1276b_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1037884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 18:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qfuhv7JPOKYvDA7zio7l7CwcIPG/5En71hhCSI29W5Q="
+        }
+      ]
+    },
+    {
       "Route": "images/9ddc8482-a201-4cec-a998-49ab53f68bad_image.h36sns35q0.jpg",
       "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/9ddc8482-a201-4cec-a998-49ab53f68bad_image.jpg",
       "Selectors": [],
@@ -1167,6 +2014,252 @@
         {
           "Name": "label",
           "Value": "images/9fd0c555-36d2-42e4-95ec-7f0dcbbac1fb_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.5qqa2ojmtd.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfeiixGs5A4hrwH6boil3fCRqJ8LP85TxJZ0mlAkSHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:00:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5qqa2ojmtd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfeiixGs5A4hrwH6boil3fCRqJ8LP85TxJZ0mlAkSHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/ae924ab0-995f-44fb-aadd-65f8e1f4220a_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55049"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfeiixGs5A4hrwH6boil3fCRqJ8LP85TxJZ0mlAkSHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:00:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfeiixGs5A4hrwH6boil3fCRqJ8LP85TxJZ0mlAkSHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2r4D129MzlFvSU0B3QcBj7yjooOv30rEMWEuoRtdKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2r4D129MzlFvSU0B3QcBj7yjooOv30rEMWEuoRtdKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/b972d047-5c91-4cba-bbca-978749d7b031_image.rd5r39jlb9.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2r4D129MzlFvSU0B3QcBj7yjooOv30rEMWEuoRtdKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:13:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rd5r39jlb9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b972d047-5c91-4cba-bbca-978749d7b031_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2r4D129MzlFvSU0B3QcBj7yjooOv30rEMWEuoRtdKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2588776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 17:08:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI="
+        }
+      ]
+    },
+    {
+      "Route": "images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.oaagoddl9u.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2588776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OvSd2ZYeoPhVCe7DFQZn2EdCI8DnDfzeB4Ic5eIqSI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Apr 2025 17:08:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oaagoddl9u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c1f61a46-f7a2-42c4-ad83-c12bd0c6b387_image.jpg"
         },
         {
           "Name": "integrity",
@@ -1499,6 +2592,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-3eRph7FE+6gjxauN0LtADl0bF+xRULp8g48m7sqlbOs="
+        }
+      ]
+    },
+    {
+      "Route": "images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.4f254rhrjn.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gMSW4ROEFBOV6TOFoYo0Y9+ksUIcI97gD6yYApiY5EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f254rhrjn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gMSW4ROEFBOV6TOFoYo0Y9+ksUIcI97gD6yYApiY5EU="
+        }
+      ]
+    },
+    {
+      "Route": "images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/d30b3ea1-cf4b-45af-a2ce-a58c8f0dcd5e_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gMSW4ROEFBOV6TOFoYo0Y9+ksUIcI97gD6yYApiY5EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:07:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gMSW4ROEFBOV6TOFoYo0Y9+ksUIcI97gD6yYApiY5EU="
+        }
+      ]
+    },
+    {
+      "Route": "images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.1xcy3mlpfq.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G//Y8tA6Sfb0IJY3Tk9Gp/PHpWYvNrbjwzZXLc/eFKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:09:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xcy3mlpfq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G//Y8tA6Sfb0IJY3Tk9Gp/PHpWYvNrbjwzZXLc/eFKQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/dfd2623d-f8e6-44f0-9b80-b1dbbca14707_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G//Y8tA6Sfb0IJY3Tk9Gp/PHpWYvNrbjwzZXLc/eFKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:09:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G//Y8tA6Sfb0IJY3Tk9Gp/PHpWYvNrbjwzZXLc/eFKQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmFxolThKdZ8avs740TV8ouS40+quXfOCCKoVULvvAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:12:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmFxolThKdZ8avs740TV8ouS40+quXfOCCKoVULvvAs="
+        }
+      ]
+    },
+    {
+      "Route": "images/e45128a1-0e9f-4382-8264-104107add3d8_image.m3dzof0ab6.jpg",
+      "AssetFile": "/Users/danilanest/BarterAppAPI/wwwroot/images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmFxolThKdZ8avs740TV8ouS40+quXfOCCKoVULvvAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 17:12:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3dzof0ab6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e45128a1-0e9f-4382-8264-104107add3d8_image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmFxolThKdZ8avs740TV8ouS40+quXfOCCKoVULvvAs="
         }
       ]
     },
